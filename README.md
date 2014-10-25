@@ -1,4 +1,8 @@
-boris
+#boris
 =====
+###nodejs dns crawler
 
-nodejs dns crawler
+set up with
+```
+npm install
+```
